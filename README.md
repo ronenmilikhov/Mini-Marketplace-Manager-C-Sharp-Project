@@ -1,6 +1,7 @@
 # Mini Marketplace Manager (C# WinForms)
 
 A Windows Forms desktop app that models a simple marketplace. You can add sellers and buyers, create items (with categories like Kids/Electric/Office/Clothing), list a seller’s items for sale, record a buyer’s purchase from a selected seller, and view summarized info for all buyers/sellers. It demonstrates clean object modeling in C# (classes for User, Buyer, Seller, Item, Address), WinForms UI flows (multi-step “add item to seller/buyer” dialogs), robust input validation (regex/typed checks), and basic text-file persistence for seller data.
+
 ---
 
 ## Features
