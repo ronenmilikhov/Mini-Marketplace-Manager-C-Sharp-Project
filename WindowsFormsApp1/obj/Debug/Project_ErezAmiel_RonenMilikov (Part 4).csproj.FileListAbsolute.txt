@@ -1,0 +1,36 @@
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\Project_ErezAmiel_RonenMilikov (Part 4).csproj.AssemblyReference.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Buyer.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Item_Buyer.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Item_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Continue_Add_Item_Buyer.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Continue_Add_Item_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Display_Buyers_Info.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Display_Sellers_Info.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\Project_ErezAmiel_RonenMilikov (Part 4).csproj.GenerateResource.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\Project_ErezAmiel_RonenMilikov (Part 4).csproj.CoreCompileInputs.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen and Erez) (Part 4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\Project_ErezAmiel_RonenMilikov (Part 4).csproj.AssemblyReference.cache
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Buyer.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Item_Buyer.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Item_Seller.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Seller.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Continue_Add_Item_Buyer.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Continue_Add_Item_Seller.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Display_Buyers_Info.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Display_Sellers_Info.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\Project_ErezAmiel_RonenMilikov (Part 4).csproj.GenerateResource.cache
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\Project_ErezAmiel_RonenMilikov (Part 4).csproj.CoreCompileInputs.cache
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ronen\OneDrive\מסמכים\GitHub\C_Sharp_Final_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

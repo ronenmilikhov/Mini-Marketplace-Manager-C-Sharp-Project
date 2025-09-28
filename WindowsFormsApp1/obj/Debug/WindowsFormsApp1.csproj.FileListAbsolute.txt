@@ -1,0 +1,46 @@
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gui_Project.Add_Product_Seller.resources
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gui_Project.Add_User.resources
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gui_Project.Form1.resources
+C:\Users\אור\Desktop\תרגילי בית Python\C#\הפרויקט האחרון ב - C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gui_Project.User_Information.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Buyer.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Item_Buyer.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Item_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Continue_Add_Item_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Buyer.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Item_Buyer.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Item_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Continue_Add_Item_Buyer.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Continue_Add_Item_Seller.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Display_Buyers_Info.resources
+C:\Users\Ronen\OneDrive\שולחן העבודה\WindowsFormsApp1 (Ronen)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Display_Sellers_Info.resources
